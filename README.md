@@ -78,7 +78,7 @@ https://github.com/ring04h/wydomain/blob/wydomain2/weibo_domains.log
 
 
 ### 4. 去重合并
-wylogtotxt.py 自己加的一个url去重合并。
+wylogtotxt.py 自己加的一个url去重合并,将dnsbrute和wydomain的结果合并。
 
 ```
 $ python wylogtotxt.py 1.log 2.log -o 3.log
