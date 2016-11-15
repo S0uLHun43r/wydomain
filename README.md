@@ -74,3 +74,12 @@ https://github.com/ring04h/wydomain/blob/wydomain2/domains.log
 微博 weibo.com 子域名结果   
 https://github.com/ring04h/wydomain/tree/wydomain2/result/weibo.com
 https://github.com/ring04h/wydomain/blob/wydomain2/weibo_domains.log   
+
+
+
+```
+$ python wylogtotxt.py 1.log 2.log -o 3.log
+usage: wylogtotxt.py 1.log 2.log [-o] 3.log
+将文本结果去重合并
+
+```
